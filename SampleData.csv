@@ -1,0 +1,22 @@
+Index,CustomerID,Gender,Age,Income(in K),Spending score
+0,1,Male,24,20,11
+1,2,Female,27,40,30
+2,3,Female,55,70,60
+3,4,Female,29,23,25
+4,5,Male,41,30,50
+5,6,Female,39,45,10
+6,7,Male,67,120,90
+7,8,Female,55,90,60
+8,9,Female,17,27,45
+9,10,Female,49,140,75
+10,21,Female,21,30,55
+11,11,Female,34,30,15
+12,12,Female,23,25,35
+13,13,Male,37,50,50
+14,14,Male,58,80,71
+15,15,Male,19,12,9
+16,16,Male,37,15,45
+17,17,Male,32,17,32
+18,18,Female,31,80,65
+19,19,Female,55,110,60
+20,20,Female,48,90,85
